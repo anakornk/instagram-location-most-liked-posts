@@ -9,7 +9,7 @@
 2. Setup (view below)
 3. node crawler.js // start crawling
 4. node top20.js // list out top 20 most-liked posts
-5. To view the post, open the url 'https://www.instagram.com/p/MEDIA_CODE'
+5. To view the post, open the url 'https://www.instagram.com/p/MEDIA_CODE' (replace MEDIA_CODE with the media code for e.g. 'BdyyDF2lYdx')
 
 
 # Setup
