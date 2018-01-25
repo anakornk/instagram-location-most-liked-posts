@@ -1,7 +1,7 @@
 # Features
 - Get 20 most-liked posts for a location on Instagram
-- Store fetched data in a json file
-Data stored includes the following: media code, date, comments count, likes count
+- Store fetched data in a json file 
+- Data stored includes the following: media code, date, comments count, likes count
 - No access token needed (Uses instagram public api, not the official one)
 
 # Usage
