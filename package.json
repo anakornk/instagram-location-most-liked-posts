@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/anakornk/instagram-location-most-liked-posts/issues"
   },
-  "homepage": "https://github.com/anakornk/instagram-location-most-liked-posts#readme"
+  "homepage": "https://github.com/anakornk/instagram-location-most-liked-posts#readme",
+  "dependencies": {
+    "node-json-db": "^0.7.3",
+    "request": "^2.83.0"
+  }
 }
